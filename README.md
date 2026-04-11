@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Frontend Developer | BCA Graduate | Java & DSA Enthusiast</h3>
+<h3 align="center">Frontend Developer | BCA Graduate | Java, Python & Full Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Frontend+Developer;Java+Developer;React+Learner;Passionate+About+Building+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Frontend+Developer;Full+Stack+Learner;Java+Developer;Python+Enthusiast;Building+Creative+Projects" />
 </p>
 
 ---
@@ -10,30 +10,50 @@
 ## 🚀 About Me
 
 - 🎓 BCA Graduate from MDU University  
-- 💻 Passionate about Software Development  
-- 🌱 Currently learning React, Java and DSA  
-- ⚡ I enjoy building responsive and interactive websites  
-- 🔥 Trying to become a full-stack developer  
+- 💻 Passionate about Software Development and Web Development  
+- 🌱 Learning Full Stack Development  
+- ⚡ Building responsive and interactive projects  
+- 🔥 Curious about modern technologies and problem solving  
 
 ---
 
 ## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql)
+
+### ⚙ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+### ☁ Deployment & Tools
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+### 🎨 Design Tools
+![Adobe](https://img.shields.io/badge/Adobe-red?style=for-the-badge&logo=adobe)
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashjadoli&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akashjadoli&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashjadoli&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akashjadoli&layout=compact&theme=tokyonight)
 
 ---
 
@@ -43,12 +63,12 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Portfolio & Contact
 
-- 📧 suryavanshiakash1990@gmail.com
-- 💼 https://www.linkedin.com/in/contactakki?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 🌍 https://akashjadoli.github.io/Portfolio/
+- 🌍 Portfolio:https://akashjadoli.github.io/Portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/contactakki?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: suryavanshiakash1990@gmail.com 
 
 ---
 
-⭐ Always curious to learn new technologies and build impactful projects.
+⭐ Always learning, building, and improving.
