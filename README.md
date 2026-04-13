@@ -63,11 +63,15 @@
 
 ---
 
-## 🌐 Portfolio & Contact
+## 🌐 Connect With Me
 
-- 🌍 Portfolio:https://akashjadoli.github.io/Portfolio/
-- 💼 LinkedIn: https://www.linkedin.com/in/contactakki?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 📧 Email: suryavanshiakash1990@gmail.com 
+<p align="center">
+  <a href="https://www.linkedin.com/in/contactakki?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:suryavanshiakash1990@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href=" https://www.instagram.com/_isthat.akash?igsh=bXFhcGx6YWE1c3V3"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"></a>
+  <a href="https://github.com/Akashjadoli"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://akashjadoli.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome"></a>
+</p>
 
 ---
 
